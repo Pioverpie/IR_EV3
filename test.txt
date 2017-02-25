@@ -1,0 +1,1 @@
+Don't forget that the IR reciever (not thermometer) must be in port 4 for it to work.
